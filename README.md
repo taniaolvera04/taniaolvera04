@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HTML code**
 
-- 🌱 I’m currently learning **HTML, JAVA, MySQL**
+- 🌱 I’m currently learning **HTML, JAVA, MySQL, JavaScript, CSS**
 
 - 👯 I’m looking to collaborate on **frontend Developers**
 
