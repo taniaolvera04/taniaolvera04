@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm taniaolvera04</h1>
 <h3 align="center">Software Student!</h3>
 
-- 🔭 I’m currently working on **HTML code**
+- 🔭 I’m currently working on **C code**
 
 - 🌱 I’m currently learning **HTML, JAVA, MySQL, JavaScript, CSS, C & C++**
 
