@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm taniaolvera04</h1>
-<h3 align="center">Estudiante de Programación de México</h3>
+<h3 align="center">Software Student!</h3>
 
 - 🔭 I’m currently working on **HTML code**
 
-- 🌱 I’m currently learning **HTML, JAVA, MySQL, JavaScript, CSS**
+- 🌱 I’m currently learning **HTML, JAVA, MySQL, JavaScript, CSS, C & C++**
 
 - 👯 I’m looking to collaborate on **frontend Developers**
 
