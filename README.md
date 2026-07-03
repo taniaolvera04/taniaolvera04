@@ -1,20 +1,54 @@
-<h1 align="center">Hi 👋, I'm taniaolvera04</h1>
-<h3 align="center">Software Student!</h3>
+# 🌸 Hi, I’m Tania O. 🌸
+Software Engineering Student • Java | C++ | Embedded Systems Enthusiast
 
-- 🔭 I’m currently working on **C code**
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-- 🌱 I’m currently learning **HTML, JAVA, MySQL, JavaScript, CSS, C & C++**
+---
 
-- 👯 I’m looking to collaborate on **frontend Developers**
+## About Me
+I’m a software engineering student who loves learning how computers work from the inside out. I’m currently coding in Java, studying modern C++ and low-level concepts, and exploring embedded systems and firmware development.
 
-- 🤝 I’m looking for help with **codes, classes about programming**
+- 🔭 Current focus: Java projects, C++ fundamentals, and embedded systems prototypes
+- 🌱 Learning: Modern C++ (RAII, STL, concurrency), systems programming, microcontrollers
+- 🎯 Career goal: Firmware/Embedded Software Engineer or Software Engineer with focus on systems
 
-- 💬 Ask me about **programming**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Skills & Tools
+- Languages: Java, C++, Python, HTML
+- Databases: MySQL, MariaDB
+- Tools & OS: Linux, Git, GDB, Make
+- Other: Basic electronics and embedded toolchains (getting hands-on with boards and sensors)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="40" height="40"/></p>
+---
+
+## Featured Projects
+I picked a few repositories that best represent my current skills (Java, databases, and small web projects). Links go to the repository — feel free to open issues or suggestions.
+
+- TERESITA-JAVA — Java application (course & personal improvements). https://github.com/taniaolvera04/TERESITA-JAVA
+- PROGRAMACION-JAVA — Collection of Java exercises and projects used to practice OOP and data structures. https://github.com/taniaolvera04/PROGRAMACION-JAVA
+- MYSQL — Practical examples and exercises with MySQL / MariaDB (schema + sample queries). https://github.com/taniaolvera04/MYSQL
+- APIClima — Small front-end / API practice for weather data (HTML/JS). https://github.com/taniaolvera04/APIClima
+
+If you want me to highlight different repos or add demo links/screenshots, I can update these entries with short README excerpts and screenshots.
+
+---
+
+## Repos I recommend keeping private (suggestion)
+To present a clean portfolio, I recommend making course/exam repositories private or removing sensitive content before showing them publicly. Suggested candidates:
+- exam / examen / examen2 / examen3
+- recuperacion
+- miprimeravez
+- Practicas505, 405, 505
+
+These appear to be class exercises or early-stage work — keeping them private helps showcase polished projects publicly while preserving your learning history.
+
+---
+
+## How to contact me
+I haven't added contact details here — tell me which email or social links (LinkedIn / Twitter) you want published and I’ll add them to the README.
+
+---
+
+Made with 💜 and curiosity — Tania
