@@ -1,4 +1,4 @@
-# 🌸 Hi, I’m Tania O. 🌸
+# 🌸 Hi, I’m Tania. 🌸
 Software Engineering Student • Java | C++ | Embedded Systems Enthusiast
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
