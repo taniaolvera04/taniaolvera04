@@ -1,54 +1,91 @@
-# 🌸 Hi, I’m Tania. 🌸
-Software Engineering Student • Java | C++ | Embedded Systems Enthusiast
+#               🌸 Welcome to my little coding corner! 🍓
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+###          Hi! I'm **Tania** 💜
 
----
+**Software Engineering Student** • ☕ Java • ⚙️ Learning C++ • 💻 Embedded Systems Enthusiast
 
-## About Me
-I’m a software engineering student who loves learning how computers work from the inside out. I’m currently coding in Java, studying modern C++ and low-level concepts, and exploring embedded systems and firmware development.
-
-- 🔭 Current focus: Java projects, C++ fundamentals, and embedded systems prototypes
-- 🌱 Learning: Modern C++ (RAII, STL, concurrency), systems programming, microcontrollers
-- 🎯 Career goal: Firmware/Embedded Software Engineer or Software Engineer with focus on systems
 
 ---
 
-## Skills & Tools
-- Languages: Java, C++, Python, HTML
-- Databases: MySQL, MariaDB
-- Tools & OS: Linux, Git, GDB, Make
-- Other: Basic electronics and embedded toolchains (getting hands-on with boards and sensors)
+## 🍒 About Me
+
+Hi! I'm Tania, a Software Engineering student from Mexico.
+
+I enjoy learning how computers work behind the scenes and turning that curiosity into personal projects.
+
+Right now you'll mostly find me building things with **Java**, while learning **Modern C++**, **Operating Systems**, **Embedded Systems**, and everything related to **Low-Level Programming**.
+
+This GitHub is where I document that journey one project at a time. 🌸
 
 ---
 
-## Featured Projects
-I picked a few repositories that best represent my current skills (Java, databases, and small web projects). Links go to the repository — feel free to open issues or suggestions.
+## 🌱 Currently
 
-- TERESITA-JAVA — Java application (course & personal improvements). https://github.com/taniaolvera04/TERESITA-JAVA
-- PROGRAMACION-JAVA — Collection of Java exercises and projects used to practice OOP and data structures. https://github.com/taniaolvera04/PROGRAMACION-JAVA
-- MYSQL — Practical examples and exercises with MySQL / MariaDB (schema + sample queries). https://github.com/taniaolvera04/MYSQL
-- APIClima — Small front-end / API practice for weather data (HTML/JS). https://github.com/taniaolvera04/APIClima
+☕ Building Java desktop applications
 
-If you want me to highlight different repos or add demo links/screenshots, I can update these entries with short README excerpts and screenshots.
+⚙️ Learning Modern C++
 
----
+💻 Exploring Embedded Systems
 
-## Repos I recommend keeping private (suggestion)
-To present a clean portfolio, I recommend making course/exam repositories private or removing sensitive content before showing them publicly. Suggested candidates:
-- exam / examen / examen2 / examen3
-- recuperacion
-- miprimeravez
-- Practicas505, 405, 505
+🐧 Getting comfortable with Linux
 
-These appear to be class exercises or early-stage work — keeping them private helps showcase polished projects publicly while preserving your learning history.
+📚 Improving my Data Structures & Algorithms skills
 
 ---
 
-## How to contact me
-I haven't added contact details here — tell me which email or social links (LinkedIn / Twitter) you want published and I’ll add them to the README.
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
-Made with 💜 and curiosity — Tania
+## 🌸 2026 Goals
+
+- [ ] Build a Java File Explorer
+- [ ] Learn Modern C++
+- [ ] Improve my GitHub Portfolio
+- [ ] Build my first Embedded Project
+- [ ] Learn more about Operating Systems
+- [ ] Build something I'm proud of 💜
+
+-----
+
+## 🍓 Fun Fact
+
+I love creating projects that help me understand how computers work from the inside out.
+
+My goal isn't just to learn programming—it's to understand the systems behind it.
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=taniaolvera04&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaolvera04&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/taniaolvera04/taniaolvera04/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+
+---
+
+<div align="center">
+
+### 🌸 Thanks for stopping by!
+
+*"Still learning. Still building. One commit at a time."* 💜
+
+</div>
