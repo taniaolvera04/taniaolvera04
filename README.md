@@ -53,7 +53,6 @@ This GitHub is where I document that journey one project at a time. 🌸
 - [ ] Learn more about Operating Systems
 - [ ] Build something I'm proud of 💜
 
------
 
 ## 🍓 Fun Fact
 
@@ -72,15 +71,6 @@ My goal isn't just to learn programming—it's to understand the systems behind 
 </p>
 
 
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/taniaolvera04/taniaolvera04/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
-
----
 
 <div align="center">
 
