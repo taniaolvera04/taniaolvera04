@@ -60,16 +60,6 @@ I love creating projects that help me understand how computers work from the ins
 
 My goal isn't just to learn programming—it's to understand the systems behind it.
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taniaolvera04&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaolvera04&layout=compact&theme=tokyonight"/>
-
-</p>
-
 
 
 <div align="center">
