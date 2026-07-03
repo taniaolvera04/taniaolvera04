@@ -5,8 +5,6 @@
 **Software Engineering Student** • ☕ Java • ⚙️ Learning C++ • 💻 Embedded Systems Enthusiast
 
 
----
-
 ## 🍒 About Me
 
 Hi! I'm Tania, a Software Engineering student from Mexico.
@@ -17,7 +15,6 @@ Right now you'll mostly find me building things with **Java**, while learning **
 
 This GitHub is where I document that journey one project at a time. 🌸
 
----
 
 ## 🌱 Currently
 
@@ -31,7 +28,6 @@ This GitHub is where I document that journey one project at a time. 🌸
 
 📚 Improving my Data Structures & Algorithms skills
 
----
 
 ## 💻 Tech Stack
 
