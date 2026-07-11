@@ -2,7 +2,7 @@
 
 ###          Hi! I'm **Tania** 💜
 
-**Software Engineering Student** • ☕ Java • ⚙️ Learning C++ • 💻 Embedded Systems Enthusiast
+**Software Engineering Student** • ☕ Java • ⚙️ Learning C++ • 💻 
 
 
 ## 🍒 About Me
