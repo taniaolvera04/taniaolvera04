@@ -11,7 +11,7 @@ Hi! I'm Tania, a Software Engineering student from Mexico.
 
 I enjoy learning how computers work behind the scenes and turning that curiosity into personal projects.
 
-Right now you'll mostly find me building things with **Java**, while learning **Modern C++**, **Operating Systems**, **Embedded Systems**, and everything related to **Low-Level Programming**.
+Right now you'll mostly find me building things with **Java**, while learning **Modern C++**, **Operating Systems**.
 
 This GitHub is where I document that journey one project at a time. 🌸
 
