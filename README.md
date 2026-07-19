@@ -45,19 +45,29 @@ This GitHub is where I document that journey one project at a time. 🌸
 - [ ] Learn more about Operating Systems
 - [ ] Build something I'm proud of 💜
 
+## 🌱 Why I Learn
 
-## 🍓 Fun Fact
+I didn't choose Computer Engineering just to earn a degree.
 
-I love creating projects that help me understand how computers work from the inside out.
+I chose it because I genuinely want to understand how computers work and become the best engineer I can be.
 
-My goal isn't just to learn programming—it's to understand the systems behind it.
+I know the journey won't always be easy, but I believe that every challenge, every bug, and every mistake is another opportunity to learn.
+
+My goal isn't to do the minimum required to pass.
+
+It's to build a strong foundation, keep improving every day, and become an engineer who truly understands the systems behind the code.
+
+I want to become a little better than I was yesterday.
+
+*"One day better than yesterday."* 💜
 
 
+---
 
 <div align="center">
 
 ### 🌸 Thanks for stopping by!
 
-*"Still learning. Still building. One commit at a time."* 💜
+*"Learning never stops. Neither do I."* 💜
 
 </div>
